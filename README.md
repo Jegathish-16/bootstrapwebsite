@@ -465,4 +465,4 @@ Publish the website in the given URL.
 ![output](o5.png)
 
 ## Result:
-
+Thus the website is created using bootstrap
